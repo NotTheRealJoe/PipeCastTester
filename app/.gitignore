@@ -1,1 +1,3 @@
 /build
+# Exclude jar files as these should be included in the gradle config instead when ready
+/libs/*.jar
